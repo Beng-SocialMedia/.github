@@ -1,8 +1,25 @@
 # Beng — Social Media Platform
 
-*Moments worth keeping.*
 
-Instagram-like social network — feed, stories, messaging, calls. Build to learn full-stack.
+Instagram-like social network — feed, stories, messaging, calls. Build to learn full-stack..
+
+### 🚀 Live Demo & API
+
+[![Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-Open_App-FF2D55?style=for-the-badge&logo=vercel&logoColor=white)](https://social-media-blush-theta.vercel.app/)
+[![API Docs](https://img.shields.io/badge/⚙️_API_DOCS-Backend-0B7285?style=for-the-badge&logo=railway&logoColor=white)](https://backend-production-0ce99.up.railway.app/docs/)
+
+**🌐 Frontend:** [https://social-media-blush-theta.vercel.app/](https://social-media-blush-theta.vercel.app/)
+**⚙️ Backend API:** [https://backend-production-0ce99.up.railway.app/docs/](https://backend-production-0ce99.up.railway.app/docs/)
+
+> Bấm vào nút trên để mở app hoặc xem tài liệu API trực tiếp.
+
+<br/>
+
+![Status](https://img.shields.io/badge/status-live-success?style=flat-square)
+![Deploy](https://img.shields.io/badge/frontend-Vercel-black?style=flat-square&logo=vercel)
+![Backend](https://img.shields.io/badge/backend-Railway-0B0D0E?style=flat-square&logo=railway)
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+
 
 ## Tech Stack
 
