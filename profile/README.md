@@ -7,10 +7,10 @@ An Instagram-like social network with **feed, stories, real-time messaging, and 
 <br/>
 
 [![Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-Open_App-FF2D55?style=for-the-badge&logo=vercel&logoColor=white)](https://social-media-blush-theta.vercel.app/)
-[![API Docs](https://img.shields.io/badge/⚙️_API_DOCS-Swagger-0B7285?style=for-the-badge&logo=railway&logoColor=white)](https://backend-production-0ce99.up.railway.app/docs/)
+[![API Docs](https://img.shields.io/badge/⚙️_API_DOCS-Swagger-0B7285?style=for-the-badge&logo=railway&logoColor=white)](https://socialmedia-fullstack.onrender.com/docs/)
 
 **🌐 Frontend** · [social-media-blush-theta.vercel.app](https://social-media-blush-theta.vercel.app/)
-**⚙️ Backend API** · [backend-production-0ce99.up.railway.app/docs](https://backend-production-0ce99.up.railway.app/docs/)
+**⚙️ Backend API** · [socialmedia-fullstack.onrender.com/docs](https://socialmedia-fullstack.onrender.com/docs/)
 
 <br/>
 
